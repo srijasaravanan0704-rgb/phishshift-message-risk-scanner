@@ -1,3 +1,7 @@
 pypdf
 scikit-learn
 pandas
+numpy
+joblib
+Flask
+requests
